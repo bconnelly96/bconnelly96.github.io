@@ -32,13 +32,9 @@ body {
     font-style: normal;
 } 
 
-.container {
-    width: 200px;
-    height: 100px;
-}
-
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: auto;
+    height: auto;
+    max-width: 100px;
+    max-height: 100px;
 }
