@@ -40,3 +40,27 @@ img {
     margin-right: auto;
     display: block;
 }
+
+.IntroBlock {
+    font-family: "VCR", system-ui;
+    display: block;
+    text-align: center;
+    color: #ca1616;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.class1 {
+    font-size: 40px;
+    padding-top: 0px;
+}
+
+.class2 {
+    font-size: 20px;
+    color: white;
+}
+
+.class3 {
+    font-size: 30px;
+    color: #ca1616
+}
