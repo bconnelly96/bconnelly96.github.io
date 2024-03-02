@@ -1,11 +1,13 @@
 body {
-    background-color: #0b5d0b;
+    background-color: #023f02;
 }
 
 /* Add a green background color to the top navigation */
 .topnav {
-    background-color: #0b5d0b;
+    background-color: #023f02;
     overflow: hidden;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
   
 /* Style the links inside the navigation bar */
@@ -16,4 +18,5 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 29px;
+  font-weight: bold;
 }
