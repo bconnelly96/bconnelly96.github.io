@@ -30,6 +30,11 @@ body {
         url("css/fonts/vcr_osd_mono-webfont.svg") format ("svg");
     font-weight: normal;
     font-style: normal;
+} 
+
+.container {
+    width: 200px;
+    height: 100px;
 }
 
 img {
