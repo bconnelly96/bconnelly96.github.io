@@ -34,11 +34,31 @@ body {
 } 
 
 img {
-    max-width: 80%;
+    max-width: 50%;
     height: auto;
     padding-top: 4%;
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
+
+.IntroBlock {
+    font-family: "VCR", system-ui;
+    display: block;
+    color: #ca1616;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Header1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.Header2 {
+    font-size: 20px;
+    color: white;
+}
+
+
 
