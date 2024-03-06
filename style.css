@@ -2,6 +2,17 @@ body {
     background-color: #023f02;
 }
 
+/*Add a custom font*/
+@font-face {
+    font-family: "VCR";
+    src: url("css/fonts/vcr_osd_mono-webfont.eot");
+    src: url("css/fonts/VCR_OSD_MONO.ttf") format("truetype"),
+        url("css/fonts/vcr_osd_mono-webfont.woff") format ("woff"),
+        url("css/fonts/vcr_osd_mono-webfont.svg") format ("svg");
+    font-weight: normal;
+    font-style: normal;
+} 
+
 /* Add a green background color to the top navigation */
 .topnav {
     background-color: #023f02;
@@ -21,17 +32,6 @@ body {
   font-family: "VCR", system-ui;
 }
 
-/*Add a custom font*/
-@font-face {
-    font-family: "VCR";
-    src: url("css/fonts/vcr_osd_mono-webfont.eot");
-    src: url("css/fonts/VCR_OSD_MONO.ttf") format("truetype"),
-        url("css/fonts/vcr_osd_mono-webfont.woff") format ("woff"),
-        url("css/fonts/vcr_osd_mono-webfont.svg") format ("svg");
-    font-weight: normal;
-    font-style: normal;
-} 
-
 img {
     max-width: 30%;
     height: auto;
@@ -50,17 +50,17 @@ img {
     margin-right: auto;
 }
 
-.class1 {
+.welcome {
     font-size: 40px;
     padding-top: 0px;
 }
 
-.class2 {
+.intro {
     font-size: 20px;
     color: white;
 }
 
-.class3 {
+.thanks {
     font-size: 30px;
     color: #ca1616
 }
