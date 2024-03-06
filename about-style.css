@@ -60,5 +60,12 @@ img {
     color: white;
 }
 
-
-
+.SmileyImg {
+    max-width: 6%;
+    height: auto;
+    padding-top: 0;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
