@@ -27,7 +27,7 @@ body {
   text-align: center;
   padding: 14px 65px;
   text-decoration: none;
-  font-size: 80px;
+  font-size: 4vw;
   font-weight: normal;
   font-family: "VCR", system-ui;
 }
@@ -65,7 +65,6 @@ img {
     font-size: 30px;
     color: #ca1616
 }
-
 
 .SmileyImg {
     max-width: 6%;
