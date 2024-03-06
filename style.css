@@ -39,6 +39,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    pointer-events:none;
 }
 
 .IntroBlock {
@@ -64,6 +65,7 @@ img {
     font-size: 30px;
     color: #ca1616
 }
+
 
 .SmileyImg {
     max-width: 6%;
