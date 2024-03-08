@@ -11,7 +11,7 @@ body {
         url("css/fonts/vcr_osd_mono-webfont.svg") format ("svg");
     font-weight: normal;
     font-style: normal;
-} 
+}
 
 /* Add a green background color to the top navigation */
 .topnav {
@@ -30,30 +30,20 @@ body {
   font-size: 4vw;
   font-weight: normal;
   font-family: "VCR", system-ui;
-  
 }
 
-img {
-    max-width: 40vw;
-    height: auto;
-    padding-top: 3%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    pointer-events: none;
-}
-
-.IntroBlock {
+.MainBody {
     font-family: "VCR", system-ui;
     display: block;
+    text-align: left;
     color: #ca1616;
-    margin-left: auto;
+    margin-left: 2vw;
     margin-right: auto;
 }
 
 .header {
-    font-size: 2vw;
-    text-align: center;
+    font-size: 1.5vw;
+    padding-top: 0px;
 }
 
 .paragraph {
