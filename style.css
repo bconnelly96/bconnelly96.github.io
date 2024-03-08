@@ -33,9 +33,9 @@ body {
 }
 
 img {
-    max-width: 30%;
+    max-width: 40vw;
     height: auto;
-    padding-top: 4%;
+    padding-top: 3%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -52,17 +52,17 @@ img {
 }
 
 .welcome {
-    font-size: 40px;
+    font-size: 2vw;
     padding-top: 0px;
 }
 
 .intro {
-    font-size: 30px;
+    font-size: 2.5vw;
     color: white;
 }
 
 .thanks {
-    font-size: 30px;
+    font-size: 3vw;
     color: #ca1616
 }
 
